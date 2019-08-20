@@ -1,0 +1,43 @@
+/* Type Selector */
+h2 {
+  color: brown;
+  font: 2em sans-serif;
+}
+
+/* Group Element */
+body {
+  background-color: lightblue
+}
+h4,h2 {
+  color: green
+}
+
+/* ID Selector */
+#companyname {
+  color: brown;
+  background-color: burlywood;
+}
+#product {
+  color: crimson;
+  background-color: coral
+}
+
+/* Class Selector */
+.classy {
+  color: blue;
+  background: blueviolet;
+  background-size: 2rem
+}
+.flappy {
+  color: green;
+  background: lightgreen;
+}
+.flat {
+  color: red;
+background: lightcoral
+}
+/* Combine ID AND Class Selector */
+.Uppercase {
+  text-transform: uppercase;
+
+}
